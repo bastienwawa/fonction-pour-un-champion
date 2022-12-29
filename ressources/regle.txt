@@ -1,0 +1,28 @@
+ /$$$$$$$                      /$$                                               /$$              
+| $$__  $$                    | $$                                              | $$              
+| $$  \ $$  /$$$$$$   /$$$$$$ | $$  /$$$$$$  /$$$$$$/$$$$   /$$$$$$  /$$$$$$$  /$$$$$$         /$$
+| $$$$$$$/ /$$__  $$ /$$__  $$| $$ /$$__  $$| $$_  $$_  $$ /$$__  $$| $$__  $$|_  $$_/        |__/
+| $$__  $$| $$$$$$$$| $$  \ $$| $$| $$$$$$$$| $$ \ $$ \ $$| $$$$$$$$| $$  \ $$  | $$              
+| $$  \ $$| $$_____/| $$  | $$| $$| $$_____/| $$ | $$ | $$| $$_____/| $$  | $$  | $$ /$$       /$$
+| $$  | $$|  $$$$$$$|  $$$$$$$| $$|  $$$$$$$| $$ | $$ | $$|  $$$$$$$| $$  | $$  |  $$$$/      |__/
+|__/  |__/ \_______/ \____  $$|__/ \_______/|__/ |__/ |__/ \_______/|__/  |__/   \___/            
+                     /$$  \ $$                                                                    
+                    |  $$$$$$/                                                                    
+                     \______/                                                                     
+
+
+            - Mettre le terminal en plein écran.
+
+            - Il suffit juste de répondre aux questions en entrant les lettres a, b, c ou d, selon la réponse désiré
+
+            - Il est impossible de quitter lors d'une question d'une case aléatoire.
+
+            - Les cases aléatoires ont plusieurs effets : - Reculer d'une case  
+                                                          - Avancer d'une case
+                                                          - Nouvelle question
+
+                                /!\ Si une case aléatoire se situe en dernière position, 
+                                        l'effet "Avancer d'une case" ne pourra pas se produire.
+
+
+    0) Revenir au menu.
